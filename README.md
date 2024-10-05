@@ -21,7 +21,6 @@ Here's a glimpse into my tech stack, where I leverage a variety of tools and fra
   
 ### Frameworks:
 - **.NET Core**
-- **ASP.NET Core**
 - **Entity Framework Core**
 
 
@@ -37,9 +36,6 @@ Here's a glimpse into my tech stack, where I leverage a variety of tools and fra
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50" style="margin: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core Logo" width="50" height="50" style="margin: 10px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor Logo" width="50" height="50" style="margin: 10px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50" style="margin: 10px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" width="50" height="50" style="margin: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server Logo" width="50" height="50" style="margin: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50" style="margin: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="50" height="50" style="margin: 10px;" />
