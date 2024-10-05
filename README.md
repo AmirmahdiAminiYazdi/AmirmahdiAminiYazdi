@@ -23,13 +23,10 @@ Here's a glimpse into my tech stack, where I leverage a variety of tools and fra
 - **.NET Core**
 - **ASP.NET Core**
 - **Entity Framework Core**
-- **Blazor**
+
 
 ### Tools & Technologies:
-- **Azure**
-- **Docker**
 - **RESTful APIs**
-- **Microservices**
 - **Git**
 
 ### Databases:
